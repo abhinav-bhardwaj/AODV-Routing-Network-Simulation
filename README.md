@@ -1,4 +1,4 @@
-# AODV Routing Network Simulation
+# AODV Routing Protocol Network Simulation
 
 ## Software used -
 - NS2 2.35 (Network Simulator 2 Version 2.35)
