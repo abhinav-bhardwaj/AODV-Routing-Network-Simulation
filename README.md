@@ -7,3 +7,6 @@
 `ns xor.tcl`
 
 `nam xor.nam`
+
+## Simulation
+![AODV Simulation](https://github.com/abhinav-bhardwaj/AODV-Routing-Network-Simulation/blob/master/aodv_ns2sim.gif)
