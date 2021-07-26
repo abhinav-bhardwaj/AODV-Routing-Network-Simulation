@@ -62,7 +62,7 @@ for {set i 0} {$i < $val(nn)} {incr i} {
 }
 
 for {set i 0} {$i < $val(nn)} {incr i} {
-	$ns at [ expr 15+round(rand()*60) ] "$node_($i) setdest [ expr 10+round(rand()*480) ] [expr 10+round(rand()*380) ] [expr 2+round(rand()*15) ]"
+	$ns at [ expr 0.2+round(rand()) ] "$node_($i) setdest [ expr 10+round(rand()*480) ] [expr 10+round(rand()*380) ] [expr 60+round(rand()*30) ]"
 }
 
 #$ns duplex-link $node_(5) $node_(2) 2Mb 10ms DropTail
