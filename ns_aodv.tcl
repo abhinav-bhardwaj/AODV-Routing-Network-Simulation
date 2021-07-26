@@ -78,7 +78,7 @@ $cbr set interval_ 0.1
 $cbr set rate_ 1mb
 $cbr set maxpkts_ 10000
 $ns connect $udp $null
-$ns at 0.6 "$cbr start"
+$ns at 0.4 "$cbr start"
 
 for {set i 0} {$i < $val(nn)} {incr i} {
         $ns initial_node_pos $node_($i) 30
