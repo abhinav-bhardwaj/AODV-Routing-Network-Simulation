@@ -4,7 +4,7 @@ Ad-hoc On-demand Distance Vector Routing Protocol Network Simulation
 ## Article
 ### [AODV Routing Protocol Network Simulation on Medium.com](https://now-its-abhi.medium.com/aodv-routing-protocol-network-simulation-53f3a23918aa?source=friends_link&sk=a16e256286176514cdab40110e8f5b21)
 
-## Pictoral Depiction
+## Pictorial Depiction
 ![Diagram](https://github.com/abhinav-bhardwaj/AODV-Routing-Network-Simulation/blob/master/aodv.png)
 
 ## Software used -
